@@ -7,6 +7,9 @@
 ## Enlace al Drive con los videos de las actividades de clase
 https://drive.google.com/drive/folders/1A3448FgZnrSAcyaCwGdp-FhIoEtbsHE4?usp=drive_link
 
+## Coevaluación a Armando
+En general fué una buena experiencia el trabajar con mi compañero Armando, siempre tratamos de ralizar 50% y 50% de todas las actividades que realizamos y nos tomamos todo con humor asi que nunca hubo descontentos al trabajar entre nosotros, una cosa que hay que recalcar es que
+
 ## Examenes de JavaScript
 ### Módulo 1
 ![image](https://github.com/user-attachments/assets/aa0c9351-1857-41fe-8a76-5415f414373b)
@@ -34,9 +37,6 @@ https://drive.google.com/drive/folders/1A3448FgZnrSAcyaCwGdp-FhIoEtbsHE4?usp=dri
 ### Exámen Final
 
 ![image](https://github.com/user-attachments/assets/5bbd32d3-2d1c-48f4-a396-11cd24e88d1f)
-
-## Coevaluación a Armando
-En general fué una buena experiencia el trabajar con mi compañero Armando, siempre tratamos de ralizar 50% y 50% de todas las actividades que realizamos y nos tomamos todo con humor asi que nunca hubo descontentos al trabajar entre nosotros, una cosa que hay que recalcar es que
 
 
 
