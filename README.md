@@ -1,6 +1,6 @@
 # Proyecto-Unidad-3-IoT
 
-**# Encabezado 1**
+# ** Encabezado 1 **
 ## Encabezado 2
 ### Encabezado 3
 #### Encabezado 4
