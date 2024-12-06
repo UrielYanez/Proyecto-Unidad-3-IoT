@@ -1,14 +1,14 @@
 # Proyecto Unidad-3 Materia IoT
 
 ## Link Video de TikTok
-
+https://vm.tiktok.com/ZMkRSYKop/
 
 # Uriel Yáñez Aguayo
 ## Enlace al Drive con los videos de las actividades de clase
 https://drive.google.com/drive/folders/1A3448FgZnrSAcyaCwGdp-FhIoEtbsHE4?usp=drive_link
 
 ## Coevaluación a Armando
-En general fué una buena experiencia el trabajar con mi compañero Armando, siempre tratamos de ralizar 50% y 50% de todas las actividades que realizamos y nos tomamos todo con humor asi que nunca hubo descontentos al trabajar entre nosotros, una cosa que hay que recalcar es que
+En general fué una buena experiencia el trabajar con mi compañero Armando, siempre tratamos de ralizar 50% y 50% de todas las actividades que realizamos y nos tomamos todo con humor asi que nunca hubo descontentos al trabajar entre nosotros, una cosa que hay que recalcar es que al momento de realizar los trabajos, se llegaba a distraer, no con tanta frecuencia pero si llegaba a distraerse, pero por lo general fue un buen compañero.
 
 ## Examenes de JavaScript
 ### Módulo 1
