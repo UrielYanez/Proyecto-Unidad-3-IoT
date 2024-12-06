@@ -1,7 +1,7 @@
 # Proyecto Unidad-3 Materia IoT
 
 ## Link Video de TikTok
-https://vm.tiktok.com/ZMkRSYKop/
+https://vm.tiktok.com/ZMkRSU71Y/
 
 # Uriel Yáñez Aguayo
 ## Enlace al Drive con los videos de las actividades de clase
