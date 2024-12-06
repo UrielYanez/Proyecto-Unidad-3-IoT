@@ -44,7 +44,7 @@ En general fué una buena experiencia el trabajar con mi compañero Armando, sie
 
 Coevaluación de José Armando Ruano Mascorro hacia Uriel Yáñez Aguayo.
 
-Trabajar con Uriel ha sido algo en su mayoria bueno, es una persona que sabe de la materia, ademas de que nos retroalimentabamos mutuamente, si hay algo de lo que me podría "quejar" seria que a veces nos confiabamos de más y realizabamos los trabajo tomandonos nuestro tiempo, pero siempre tratabamos de aportar algo en el equipo.
+Trabajar con Uriel a lo largo del cuatrimestre a sido regularmente bueno, terminamos el proyecto y cuando trabajabamos procurabamos que fuera un 50 / 50, algo que podría sugerir que mejore es que hay ocaciones en las que se distrae al momento de trabajar, lo que hace que demoremos más tiempo en realizar los trabajos de lo que deberiamos.
 
 ## Drive de los videos de los ejercicios hechos en clase
 
